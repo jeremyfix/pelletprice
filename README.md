@@ -13,4 +13,4 @@ Morevoer, if you were interested in the fluctuation of the pellet price, you cou
 we may be using :
 
 - unstructured for partitionning the page content
-- coupled with Llama index , maybe, for RAGs ? Using a [local install with gpt4all ? ](https://colab.research.google.com/drive/16QMQePkONNlDpgiltOi7oRQgmB8dU5fl?usp=sharing)
+- coupled with Llama index , maybe, for RAGs ? Using a [local install with gpt4all ? ](https://colab.research.google.com/drive/16QMQePkONNlDpgiltOi7oRQgmB8dU5fl?usp=sharing) or maybe [langchain with gpt4all ?](https://python.langchain.com/docs/integrations/llms/gpt4all.html)
